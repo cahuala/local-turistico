@@ -1,0 +1,17 @@
+main{
+  width: 1120px;
+  margin: 88px auto 137px ;
+}
+#header{
+  margin-top: 0px;
+}
+#header-logo p{
+  font-family: 'Open Sans',serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #E1624F;
+  margin-bottom: 8px;
+}
+#header-logo h1,h2{
+  margin-top: 8px;
+}
