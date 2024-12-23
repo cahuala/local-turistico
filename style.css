@@ -75,15 +75,29 @@ p{
   color: #333333 ;
   margin-bottom: 48px;
 }
+
 ul {
-  margin: 0; /* Remove as margens padrão */
-  padding: 0; /* Remove o preenchimento padrão */
+ margin-top: -40px;
 }
-
-strong {
-  display: inline; /* Garante que o texto não tenha espaçamento adicional */
+ li{
+  font-family:'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #0C51A7;
 }
-
-ul li {
-  list-style-position: inside; /* Mantém o marcador alinhado ao texto */
+.colorlistFirst{
+  color: #591B98;
+}
+.colorlistSecond{
+  color: #E5245E;
+}
+.colorlist{
+  color: #E95E10;
+}
+.theLastP{
+  text-align: center;
+}
+footer{
+  text-align: center;
+  margin-bottom: 48px;
 }
